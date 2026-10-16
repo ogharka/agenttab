@@ -1,0 +1,42 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Secrets — NEVER commit these
+.env
+.env.*
+.env.local
+.env.*.local
+
+# Circle entity secret + recovery
+.circle/
+recovery_file*.dat
+*recovery_file*
+*recovery*
+
+# Certificates & keys
+*.pem
+*.key
+
+# Foundry artifacts & cache
+contracts/out/
+contracts/cache/
+contracts/broadcast/
+cache/
+
+# Foundry coverage
+lcov.info
+coverage/
+
+# Runtime logs
+console.jsonl
+traces.jsonl
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

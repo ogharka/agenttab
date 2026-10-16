@@ -1,0 +1,34 @@
+{
+  "contractAddress": "0x5ac7171a4fc73161FBAb4955E3aB57B89127b235",
+  "network": "ARC",
+  "deployerWalletId": "8637a885-2d64-5e45-9cf0-8eb4ff6ecfcb",
+  "deployerAddress": "0xa37a7b0f5c442ad85369f22a38780a9dc64230bc",
+  "contract_code_path": "/home/user/app/contracts/AgentTab.sol",
+  "contract_compiled_code_path": "/home/user/app/contracts/out/AgentTab.sol/AgentTab.json",
+  "contract_network_and_links": {
+    "Arc": "0x5ac7171a4fc73161FBAb4955E3aB57B89127b235"
+  },
+  "contract_deployments": [
+    {
+      "chain": "Arc",
+      "address": "0x5ac7171a4fc73161FBAb4955E3aB57B89127b235",
+      "explorerUrl": "0x5ac7171a4fc73161FBAb4955E3aB57B89127b235",
+      "txHash": "0xb8afca48fbba821bbad07e9283ac1a4e64bc051c80645c1c52d3b6cc13785fed",
+      "deployedAt": "2026-10-16T11:51:43.569Z"
+    },
+    {
+      "chain": "Arc",
+      "address": "0xEC723Db6e765e806090511478Aba4db37947D584",
+      "explorerUrl": "0xEC723Db6e765e806090511478Aba4db37947D584",
+      "txHash": "0xb729c5f2b492a3d8739899ab3a0a84501a6bf5be04d3ff163223f344956bdbdd",
+      "deployedAt": "2026-10-16T11:35:29.129Z"
+    },
+    {
+      "chain": "Arc",
+      "address": "0x65C57be611bEeA856d30f887FD423BA67Cc814f3",
+      "explorerUrl": "0x65C57be611bEeA856d30f887FD423BA67Cc814f3",
+      "txHash": "0xcb6c4dde66eedf56135a8597240da02f2910af26f475137e925ec0e736cf04b2",
+      "deployedAt": "2026-10-16T11:34:51.166Z"
+    }
+  ]
+}
